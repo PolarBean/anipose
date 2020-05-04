@@ -17,7 +17,7 @@ The name Anipose comes from **Ani**mal **Pose**, but it also sounds like "any po
 
 - [Setting up Anipose for 2D tracking](./docs/github/start_2d.md)
 - [Setting up Anipose for 3D tracking](./docs/github/start_3d.md)
-- [Full Documentation](./https://anipose.readthedocs.io/en/latest/)
+- [Full Documentation](</https://anipose.readthedocs.io/en/latest/>)
 
 ## Demos
 
